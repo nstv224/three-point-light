@@ -102,8 +102,8 @@ function App() {
 
         <BackDrop />
         {light && <KeyLight brightness={5.6} color={"#ffc9f9"} />}
-        <FillLight brightness={2.6} color={"#bdefff"} />
-        <RimLight brightness={54} color={"#fff"} />
+        <FillLight brightness={2.6} color={"#00FF00"} />
+        <RimLight brightness={54} color={"#ADD8E6"} />
         <Sphere />
       </Canvas>
       <button
